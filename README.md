@@ -4,6 +4,8 @@ O objetivo do teste é:
 
 - Obter os repositórios de um usuário do GitHub
 
+This project was bootstrapped with Create React App.
+
 ## Available Scripts
 In the project directory, you can run:
 
