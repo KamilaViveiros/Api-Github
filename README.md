@@ -1,8 +1,20 @@
-#Teste Técnico - Frontend
+# Teste Técnico - Frontend
 
-# Instalar os seguintes items:
+O objetivo do teste é:
 
-- npm install
+- Obter os repositórios de um usuário do GitHub
 
-## Após a instalação digitar:
-- npm start
+## Available Scripts
+In the project directory, you can run:
+
+npm install
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+## Autor
+
+* **Kamila Viveiros** - (https://github.com/KamilaViveiros)
